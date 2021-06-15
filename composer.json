@@ -1,6 +1,7 @@
 
 {
-     "name":"Fazemodz",
+     "$schema": "https://json-schema.org/draft-04/schema#",
+     "name":"fazemodz",
     "description":"Old ver of my website",
     "license": "apache license",
     "authors": [
