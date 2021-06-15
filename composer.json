@@ -1,5 +1,8 @@
 
 {
+     "name":"Fazemodz",
+    "description":"Old ver of my website",
+    "license": "apache license"
     "authors": [
         {
             "name": "alex silva",
