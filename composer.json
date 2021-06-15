@@ -1,1 +1,15 @@
 
+{
+    "authors": [
+        {
+            "name": "",
+            "email": "",
+            "homepage": "",
+            "role": ""
+        }
+        "require" : {
+        "php" : ">=7.4",
+        
+    }
+    ]
+}
