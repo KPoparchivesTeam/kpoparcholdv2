@@ -2,10 +2,10 @@
 {
     "authors": [
         {
-            "name": "",
-            "email": "",
-            "homepage": "",
-            "role": ""
+            "name": "alex silva",
+            "email": "fazemodz@naver.com",
+            "homepage": "https://github.com/fazemodz",
+            "role": "owner"
         }],
         "require" : {
         "php" : "7.4"
