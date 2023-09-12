@@ -7,6 +7,5 @@
 <a href="Twice">Twice</a>
 <a href="Everglow">Everglow</a>
 <a href="Ateez">Ateez</a>
-<a href="Acknowledgements">Acknowledgements</a>
 <a href="K-Dramas/">K-Dramas</a>
 </div>
