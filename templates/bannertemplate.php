@@ -36,7 +36,7 @@ ul li {
 </style>
 
 <ul>
-  <li>Note this is a old version of kpoparchives so somethings might not work. #BlackLivesMatter<span class="close">&times;</span></li>
+  <li>Note this is a old version of kpoparchives so somethings might not work.<span class="close">&times;</span></li>
 </ul>
 <script>
 var closebtns = document.getElementsByClassName("close");
